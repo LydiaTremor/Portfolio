@@ -1,8 +1,0 @@
-{
-	"apiVersion": 2,
-	"title":"BetterDocs Table Of Contents",
-	"name":"betterdocs/table-of-contents",
-	"category":"betterdocs",
-	"description":"Display BetterDocs Social Share In FSE Single Docs",
-	"textdomain":"betterdocs"
-}
